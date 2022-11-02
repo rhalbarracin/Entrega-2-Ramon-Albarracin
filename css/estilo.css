@@ -1,0 +1,56 @@
+/* HEADER */
+
+a{
+
+    text-decoration: none;
+    text-transform: uppercase;
+    color: darkblue;
+    margin-left: 20px;
+    
+}
+
+h1{
+
+    text-align: center;
+    color: darkred;
+
+}
+
+header {
+    background-color: rgb(196, 204, 122);
+
+}
+
+li {
+
+    list-style-type: none;
+    display: inline-block;
+
+}
+
+/* MAIN */
+
+main{
+
+    background-color: bisque;
+}
+
+.parrafo{
+
+    text-align: center;
+    font-size: 25px;
+
+}
+
+/* IMAGENES */
+
+img{
+
+   width: 500px; 
+}
+  
+
+footer {
+    background-color: rgb(212, 131, 228);
+
+}
